@@ -1,0 +1,60 @@
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/bin/Debug/net7.0/Persistence.deps.json
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/bin/Debug/net7.0/Persistence.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/bin/Debug/net7.0/Persistence.pdb
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/bin/Debug/net7.0/Domain.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/bin/Debug/net7.0/Domain.pdb
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.pdb
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Persistence/obj/Debug/net7.0/ref/Persistence.dll
+C:/Learning/Reactivities/Persistence/bin/Debug/net7.0/Persistence.deps.json
+C:/Learning/Reactivities/Persistence/bin/Debug/net7.0/Persistence.dll
+C:/Learning/Reactivities/Persistence/bin/Debug/net7.0/Persistence.pdb
+C:/Learning/Reactivities/Persistence/bin/Debug/net7.0/Domain.dll
+C:/Learning/Reactivities/Persistence/bin/Debug/net7.0/Domain.pdb
+C:/Learning/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+C:/Learning/Reactivities/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:/Learning/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+C:/Learning/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+C:/Learning/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+C:/Learning/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+C:/Learning/Reactivities/Persistence/obj/Debug/net7.0/Persistence.dll
+C:/Learning/Reactivities/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+C:/Learning/Reactivities/Persistence/obj/Debug/net7.0/Persistence.pdb
+C:/Learning/Reactivities/Persistence/obj/Debug/net7.0/ref/Persistence.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/bin/Debug/net7.0/Persistence.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/bin/Debug/net7.0/Persistence.pdb
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/bin/Debug/net7.0/Domain.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/bin/Debug/net7.0/Domain.pdb
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/obj/Debug/net7.0/Persistence.pdb
+/Users/robinmcmanus/Documents/Projects/Reactivities/Persistence/obj/Debug/net7.0/ref/Persistence.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/bin/Debug/net7.0/Persistence.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/bin/Debug/net7.0/Persistence.pdb
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/bin/Debug/net7.0/Domain.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/bin/Debug/net7.0/Domain.pdb
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/obj/Debug/net7.0/Persistence.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/obj/Debug/net7.0/Persistence.pdb
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Persistence/obj/Debug/net7.0/ref/Persistence.dll

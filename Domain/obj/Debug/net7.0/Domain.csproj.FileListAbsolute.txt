@@ -1,0 +1,48 @@
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll
+C:/Learning/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+C:/Learning/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+C:/Learning/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+C:/Learning/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+C:/Learning/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Learning/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+C:/Learning/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+C:/Learning/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+C:/Learning/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+C:/Learning/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+C:/Learning/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+C:/Learning/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/robinmcmanus/Documents/Projects/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/robinmcmanus/Documents/Projects/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/robinmcmanus/Documents/Projects/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robinmcmanus/Documents/Projects/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/robinmcmanus/Documents/Projects/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/robinmcmanus/Documents/Projects/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/robinmcmanus/Documents/Projects/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/robinmcmanus/Documents/Projects/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Domain/bin/Debug/net7.0/Domain.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Domain/obj/Debug/net7.0/Domain.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/robinmcmanus/Documents/Projects/MovieShaker/Domain/obj/Debug/net7.0/ref/Domain.dll

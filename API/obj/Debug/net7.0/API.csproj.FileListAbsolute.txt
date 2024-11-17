@@ -1,0 +1,330 @@
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/appsettings.json
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/API.exe
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/API.deps.json
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/API.runtimeconfig.json
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/API.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/API.pdb
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/Application.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/Domain.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/Persistence.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/Application.pdb
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/Domain.pdb
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/bin/Debug/net7.0/Persistence.pdb
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/API.AssemblyInfo.cs
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/API.csproj.CopyComplete
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/API.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/refint/API.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/API.pdb
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/API.genruntimeconfig.cache
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/api/obj/Debug/net7.0/ref/API.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/Humanizer.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/rmcmanus/OneDrive - Moore Kingston Smith LLP/Documents/projects/Reactivities/API/bin/Debug/net7.0/System.CodeDom.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/appsettings.Development.json
+C:/Learning/Reactivities/API/bin/Debug/net7.0/appsettings.json
+C:/Learning/Reactivities/API/bin/Debug/net7.0/API.exe
+C:/Learning/Reactivities/API/bin/Debug/net7.0/API.deps.json
+C:/Learning/Reactivities/API/bin/Debug/net7.0/API.runtimeconfig.json
+C:/Learning/Reactivities/API/bin/Debug/net7.0/API.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/API.pdb
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Humanizer.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/System.CodeDom.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Application.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Domain.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Persistence.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Application.pdb
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Domain.pdb
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Persistence.pdb
+C:/Learning/Reactivities/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+C:/Learning/Reactivities/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Learning/Reactivities/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+C:/Learning/Reactivities/API/obj/Debug/net7.0/API.AssemblyInfo.cs
+C:/Learning/Reactivities/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+C:/Learning/Reactivities/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+C:/Learning/Reactivities/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+C:/Learning/Reactivities/API/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Learning/Reactivities/API/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+C:/Learning/Reactivities/API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+C:/Learning/Reactivities/API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+C:/Learning/Reactivities/API/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Learning/Reactivities/API/obj/Debug/net7.0/staticwebassets.build.json
+C:/Learning/Reactivities/API/obj/Debug/net7.0/staticwebassets.development.json
+C:/Learning/Reactivities/API/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+C:/Learning/Reactivities/API/obj/Debug/net7.0/API.csproj.CopyComplete
+C:/Learning/Reactivities/API/obj/Debug/net7.0/API.dll
+C:/Learning/Reactivities/API/obj/Debug/net7.0/refint/API.dll
+C:/Learning/Reactivities/API/obj/Debug/net7.0/API.pdb
+C:/Learning/Reactivities/API/obj/Debug/net7.0/API.genruntimeconfig.cache
+C:/Learning/Reactivities/API/obj/Debug/net7.0/ref/API.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/MediatR.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/MediatR.Contracts.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/AutoMapper.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/package-lock.json
+C:/Learning/Reactivities/API/bin/Debug/net7.0/package.json
+C:/Learning/Reactivities/API/bin/Debug/net7.0/FluentValidation.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Learning/Reactivities/API/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/appsettings.Development.json
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/appsettings.json
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/package-lock.json
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/package.json
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/API
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/API.deps.json
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/API.runtimeconfig.json
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/API.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/API.pdb
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/AutoMapper.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/FluentValidation.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Humanizer.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/MediatR.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Application.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Domain.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Persistence.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Application.pdb
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Domain.pdb
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/bin/Debug/net7.0/Persistence.pdb
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/API.AssemblyInfo.cs
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/API.csproj.CopyComplete
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/API.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/refint/API.dll
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/API.pdb
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/API.genruntimeconfig.cache
+/Users/robinmcmanus/Documents/Projects/Reactivities/API/obj/Debug/net7.0/ref/API.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/appsettings.Development.json
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/appsettings.json
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/package-lock.json
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/package.json
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/API
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/API.deps.json
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/API.runtimeconfig.json
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/API.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/API.pdb
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/AutoMapper.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/FluentValidation.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Humanizer.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/MediatR.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Application.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Domain.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Persistence.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Application.pdb
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Domain.pdb
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/bin/Debug/net7.0/Persistence.pdb
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/API.AssemblyInfo.cs
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/API.csproj.CopyComplete
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/API.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/refint/API.dll
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/API.pdb
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/API.genruntimeconfig.cache
+/Users/robinmcmanus/Documents/Projects/MovieShaker/API/obj/Debug/net7.0/ref/API.dll
