@@ -5,7 +5,7 @@ import { useStore } from "../../../app/stores/store";
 import { Link, useParams } from "react-router-dom";
 import { Activity } from "../../../app/models/activity";
 import LoadingComponent from "../../../app/layouts/LoadingComponents";
-import { Formik, Form, Field } from "formik";
+import { Formik, Form, Field, } from "formik";
 
 export default observer(function ActivityForm() {
     const { activityStore } = useStore();
@@ -44,12 +44,12 @@ export default observer(function ActivityForm() {
 
     return (
         <Segment clearing>
-            <Formik classname='ui form' initialValues={activity} onSubmit={values => console.log(values)}>
+            <Formik enableReinitialize initialValues={activity} onSubmit={values => console.log(values)}>
                 {({ handleSubmit }) => (
-                    <Form onSubmit={handleSubmit} autoComplete='off'>
+                    <Form className='ui form' onSubmit={handleSubmit} autoComplete='off' >
                         <Field placeholder='Title' name='title' />
                         <Field placeholder='Description' name='description' />
-                        <Field placeholder='Category' name='category' />
+                        <Field placeholder='Category' name='category'/>
                         <Field type='date' placeholder='Date' name='date' />
                         <Field placeholder='City' name='city' />
                         <Field placeholder='Venue' name='venue' />
