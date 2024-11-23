@@ -9,6 +9,8 @@ namespace Domain
 
         public string Description { get; set; }
 
+        public int Duration {get; set; }
+
         public string Category { get; set; }
 
         public string City { get; set; }

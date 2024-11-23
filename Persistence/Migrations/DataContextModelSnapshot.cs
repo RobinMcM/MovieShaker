@@ -32,6 +32,9 @@ namespace Persistence.Migrations
                     b.Property<DateTime>("Date")
                         .HasColumnType("TEXT");
 
+                    b.Property<int>("Duration")
+                        .HasColumnType("INTEGER");
+                        
                     b.Property<string>("Description")
                         .HasColumnType("TEXT");
 

@@ -28,17 +28,19 @@ export default observer(function ActivityForm() {
         category: '',
         description: '',
         date: null,
+        duration: 0,
         city: '',
         venue: ''
     });
 
     const validationScheme = Yup.object({
-        title: Yup.string().required(),
-        description: Yup.string().required(),
-        category: Yup.string().required(),
-        date: Yup.string().required().nullable(),
-        city: Yup.string().required(),
-        venue: Yup.string().required(),
+        title: Yup.string().required('Please enter a Title'),
+        description: Yup.string().required('Please enter a description'),
+        category: Yup.string().required('Please enter a Category'),
+        date: Yup.string().required().nonNullable('Please enter a Date'),
+        duration: Yup.number().required('Please enter a duration'),
+        city: Yup.string().required('Please enter a Location'),
+        venue: Yup.string().required('Pleae enter a Venue'),
     })
 
     useEffect(() => {
@@ -69,6 +71,7 @@ export default observer(function ActivityForm() {
                         <TextInput name='title' placeholder='Title'  />                        
                         <TextAreaInput rows={5}name='description' placeholder='Description' />
                         <SelectInput options={categoryOptions} placeholder='Category' name='category'/>
+                        <Header content='Date and Time - duration in minutes' sub color='teal' />
                         <DateInput 
                             placeholderText = 'Date' 
                             name = 'date'
@@ -76,6 +79,7 @@ export default observer(function ActivityForm() {
                             timeCaption='time'
                             dateFormat='MMMM d, yyyy h:mm aa'
                         />
+                        <TextInput placeholder='Duration' name='duration' />
                         <Header content='Location Details' sub color='teal' />
                         <TextInput placeholder='City' name='city' />
                         <TextInput placeholder='Venue' name='venue' />
